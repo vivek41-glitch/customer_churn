@@ -6,3 +6,4 @@ and in future we will implement this using deep learning and then soo on . we wi
 also treid with two classification algorithm decision ntree and one is ensemble learning algorithm which is adaboosts in decision tree we had reached 77% and in adaboost we have reached 78% . 
 
 
+furthur will try to make it good , 
